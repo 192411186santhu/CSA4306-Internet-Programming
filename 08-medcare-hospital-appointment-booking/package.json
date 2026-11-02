@@ -1,0 +1,8 @@
+{
+  "name": "medcare-hospital-appointment-booking",
+  "version": "1.0.0",
+  "description": "MedCare Hospital Online Appointment Booking System - Internet Programming Experiment 8",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
