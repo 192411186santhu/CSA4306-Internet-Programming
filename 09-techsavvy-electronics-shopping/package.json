@@ -1,0 +1,8 @@
+{
+  "name": "techsavvy-electronics-shopping",
+  "version": "1.0.0",
+  "description": "TechSavvy Online Electronics Shopping - Internet Programming Experiment 9",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
