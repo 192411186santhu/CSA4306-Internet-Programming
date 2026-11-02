@@ -1,0 +1,8 @@
+{
+  "name": "votee-voting-platform",
+  "version": "1.0.0",
+  "description": "VoteOnline E-Voting Platform - Internet Programming Experiment 17",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
