@@ -1,0 +1,8 @@
+{
+  "name": "stylehub-fashion-shopping",
+  "version": "1.0.0",
+  "description": "StyleHub Online Fashion Shopping - Internet Programming Experiment 10",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
