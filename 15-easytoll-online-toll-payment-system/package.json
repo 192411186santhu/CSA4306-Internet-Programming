@@ -1,0 +1,8 @@
+{
+  "name": "easytoll-toll-payment",
+  "version": "1.0.0",
+  "description": "EasyToll Online Toll Payment System - Internet Programming Experiment 15",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
