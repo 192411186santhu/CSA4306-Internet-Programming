@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Campus Library Management System</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-icon">📚</span><div><h1>Campus Library</h1><p>Library Management System</p></div></div>
+    <nav><a class="active" href="index.html">Dashboard</a><a href="pages/books.html">Books</a><a href="pages/members.html">Members</a></nav>
+  </header>
+  <main class="container">
+    <section class="welcome"><div><p class="eyebrow">LIBRARY OVERVIEW</p><h2>Welcome to your library</h2><p>Manage books, members and borrowing records in one place.</p></div><a class="button" href="pages/books.html">Manage books →</a></section>
+    <section class="stats">
+      <article class="stat-card"><span>Total books</span><strong id="totalBooks">0</strong><small>Books in collection</small></article>
+      <article class="stat-card"><span>Available books</span><strong id="availableBooks">0</strong><small>Ready to borrow</small></article>
+      <article class="stat-card"><span>Registered members</span><strong id="totalMembers">0</strong><small>Library members</small></article>
+      <article class="stat-card"><span>Books borrowed</span><strong id="borrowedBooks">0</strong><small>Currently on loan</small></article>
+    </section>
+    <section class="panel">
+      <div class="panel-heading"><div><h2>Recently added books</h2><p>Your library collection at a glance</p></div><a href="pages/books.html">View all books →</a></div>
+      <div class="table-wrap"><table><thead><tr><th>Book title</th><th>Author</th><th>Category</th><th>Status</th></tr></thead><tbody id="recentBooks"></tbody></table></div>
+    </section>
+    <section class="panel quick-links"><h2>Quick actions</h2><div class="action-grid"><a href="pages/books.html">＋ Add or manage books</a><a href="pages/members.html">＋ Register a member</a><a href="pages/issue.html">↗ Issue / return a book</a></div></section>
+  </main>
+  <footer>Campus Library Management System · Student project</footer>
+  <script src="js/app.js"></script>
+</body>
+</html>
