@@ -1,0 +1,8 @@
+{
+  "name": "blossomgifts-flowers-and-gifts",
+  "version": "1.0.0",
+  "description": "BlossomGifts Online Flowers and Gifts - Internet Programming Experiment 13",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
