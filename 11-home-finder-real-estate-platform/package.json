@@ -1,0 +1,8 @@
+{
+  "name": "home-finder-real-estate-platform",
+  "version": "1.0.0",
+  "description": "Home Finder Real Estate Platform - Internet Programming Experiment 11",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
