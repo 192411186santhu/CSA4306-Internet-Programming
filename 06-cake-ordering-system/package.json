@@ -1,0 +1,8 @@
+{
+  "name": "cake-ordering",
+  "version": "1.0.0",
+  "description": "Online Cake Ordering System - Internet Programming Experiment 6",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
