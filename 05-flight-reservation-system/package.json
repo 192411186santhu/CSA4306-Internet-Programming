@@ -1,6 +1,0 @@
-{
-  "name": "flight-reservation-system",
-  "version": "1.0.0",
-  "description": "Online Flight Reservation System - Internet Programming Lab Experiment 5",
-  "scripts": { "start": "node serve.js" }
-}
