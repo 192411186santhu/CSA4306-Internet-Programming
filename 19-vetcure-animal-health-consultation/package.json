@@ -1,0 +1,8 @@
+{
+  "name": "vetcure-animal-health-consultation",
+  "version": "1.0.0",
+  "description": "VetCure Animal Health Consultation System - Internet Programming Experiment 19",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
