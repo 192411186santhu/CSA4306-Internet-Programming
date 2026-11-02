@@ -1,0 +1,9 @@
+{
+  "name": "online-bus-ticket-booking-system",
+  "version": "1.0.0",
+  "description": "A responsive online bus ticket booking demonstration",
+  "main": "serve.js",
+  "scripts": {"start": "node serve.js"},
+  "keywords": ["bus", "ticket", "booking", "html", "css", "javascript"],
+  "license": "MIT"
+}
