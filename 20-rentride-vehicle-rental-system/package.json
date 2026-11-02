@@ -1,0 +1,8 @@
+{
+  "name": "rentride-vehicle-rental",
+  "version": "1.0.0",
+  "description": "RentRide Vehicle Rental System - Internet Programming Experiment 20",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
