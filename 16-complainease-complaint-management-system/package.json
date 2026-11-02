@@ -1,0 +1,8 @@
+{
+  "name": "complainease-complaint-management",
+  "version": "1.0.0",
+  "description": "ComplainEase Complaint Management System - Internet Programming Experiment 16",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
