@@ -1,0 +1,8 @@
+{
+  "name": "agrimart-agricultural-products-marketplace",
+  "version": "1.0.0",
+  "description": "AgriMart Agricultural Products Marketplace - Internet Programming Experiment 18",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
