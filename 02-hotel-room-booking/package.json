@@ -1,0 +1,9 @@
+{
+  "name": "hotel-room-booking-system",
+  "version": "1.0.0",
+  "description": "A responsive hotel room booking demonstration",
+  "main": "serve.js",
+  "scripts": {"start": "node serve.js"},
+  "keywords": ["hotel", "booking", "html", "css", "javascript"],
+  "license": "MIT"
+}
