@@ -1,0 +1,1 @@
+{"name":"online-train-reservation-system","version":"1.0.0","description":"Train reservation frontend demonstration","main":"serve.js","scripts":{"start":"node serve.js"},"keywords":["train","reservation","html","css","javascript"],"license":"MIT"}
