@@ -1,0 +1,8 @@
+{
+  "name": "insureeasy-insurance-management",
+  "version": "1.0.0",
+  "description": "InsureEasy Insurance Management System - Internet Programming Experiment 12",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
