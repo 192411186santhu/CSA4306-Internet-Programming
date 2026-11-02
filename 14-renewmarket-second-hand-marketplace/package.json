@@ -1,0 +1,8 @@
+{
+  "name": "renewmarket-second-hand-marketplace",
+  "version": "1.0.0",
+  "description": "ReNewMarket Second-Hand Marketplace - Internet Programming Experiment 14",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
